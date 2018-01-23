@@ -1,4 +1,4 @@
-# intermediate_python_jessica
+# intermediate_python
 My worked out Jupyter notebooks for 'Intermediate Python Programming' by Jessica McKellar 
 
 http://shop.oreilly.com/product/0636920049852.do
